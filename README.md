@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 <img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
 <img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/2Fazad9Hs5xPAF6iQ/giphy.gif"/>
+<img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/2Faz7h7FoWNaTjQuk/giphy-downsized-large.gif"/>
