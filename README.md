@@ -16,8 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- gif made by Falcao Lucas @ https://giphy.com/gifs/falcaolucas-2Fazad9Hs5xPAF6iQ -->
-
-<img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
-<img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/2Fazad9Hs5xPAF6iQ/giphy.gif"/>
+<!-- gif made by Winston Duke -->
 <img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/3o6UBedJJfaxXHvZyU/giphy.gif"/>
