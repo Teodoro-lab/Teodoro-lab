@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 
 <!-- gif made by Falcao Lucas @ https://giphy.com/gifs/falcaolucas-2Fazad9Hs5xPAF6iQ -->
-<!-- <img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/2Fazad9Hs5xPAF6iQ/giphy.gif?cid=790b76114a7e82cf52ad91b8679f5cf3694c323339867ed7&rid=giphy.gif&ct=g"/> -->
+<img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/2Fazad9Hs5xPAF6iQ/giphy.gif"/>
 
   
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+<!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
   <img src="https://giphy.com/embed/2Fazad9Hs5xPAF6iQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
+ -->
