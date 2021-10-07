@@ -14,4 +14,4 @@ Here are some ideas to get you started: -->
 
 
 <!-- gif made by Winston Duke -->
-<img align="center" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/3o6UBedJJfaxXHvZyU/giphy.gif"/>
+<img align="middle" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/3o6UBedJJfaxXHvZyU/giphy.gif"/>
