@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning *JavaScript*
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ... -->
+ - 🔭 I’m currently working on my data analysis skills
+- 🌱 I’m currently learning openCV, Java, SpringBoot
+- 💬 Ask me about music and programming
+- :tennis: I like to play tennis and piano:notes:
+- ⚡ Fun fact: I have a little scar in my eyebrow since I was a child because of a fall:bicyclist:
 
 
 
