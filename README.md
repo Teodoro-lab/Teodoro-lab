@@ -1,4 +1,4 @@
-### Hi there. i'm Teodoro👋:musical_note:
+### Hi there. i'm Teodoro👋
 
 
 <!-- **Teodoro-lab/Teodoro-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
